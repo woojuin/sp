@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class sp {
-  @RequestMapping("/")
+  @RequestMapping("/test")
   public String home() {
     return ("SP OPENSHIFT");
   }
