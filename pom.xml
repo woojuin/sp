@@ -59,7 +59,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.example.sp</mainClass>
+							<mainClass>com.example.SpApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
